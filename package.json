@@ -46,7 +46,7 @@
     "aos": "^2.3.4",
     "bootstrap": "^4.4.1",
     "firebase": "^7.6.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "mdbootstrap": "^4.10.1",
     "ng-pick-datetime": "^7.0.0",
